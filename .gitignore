@@ -1,0 +1,57 @@
+.pnpm-store
+dist
+out
+out-*
+build
+dist-ssr
+node_modules
+coverage/
+*.local
+
+.DS_Store
+
+# Builds
+bin/
+luna-co-pilot-*.vsix
+
+# Local prompts and rules
+/local-prompts
+
+# Test environment
+.test_env
+.vscode-test/
+
+# Docs
+docs/_site/
+
+# Build files
+*.vsix
+*.vsixbundle
+
+# Dotenv
+.env
+.env.*
+!.env.sample
+
+#Local lint config
+.eslintrc.local.json
+
+#Logging
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Vite development
+.vite-port
+
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.tsbuildinfo
