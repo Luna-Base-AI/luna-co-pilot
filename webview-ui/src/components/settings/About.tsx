@@ -51,7 +51,7 @@ export const About = ({ version, telemetrySetting, setTelemetrySetting, classNam
 					<Trans
 						i18nKey="settings:footer.feedback"
 						components={{
-							githubLink: <VSCodeLink href="https://github.com/Luna-Base-AI/easy-start-vscode" />,
+							githubLink: <VSCodeLink href="https://github.com/Luna-Base-AI/luna-co-pilot" />,
 							redditLink: <VSCodeLink href="https://lunabase.ai/" />,
 							discordLink: <VSCodeLink href="https://lunabase.ai/" />,
 						}}

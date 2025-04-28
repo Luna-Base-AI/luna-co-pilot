@@ -32,7 +32,7 @@ Luna is a VS Code extension designed to enhance your coding experience with AI-p
 1.  Clone the repository:
 
     ```bash
-    git clone https://github.com/Luna-Base-AI/easy-start-vscode.git
+    git clone https://github.com/Luna-Base-AI/luna-co-pilot.git
     ```
 
     Make sure you have [Node.js](https://nodejs.org/) and npm installed.

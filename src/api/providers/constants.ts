@@ -1,5 +1,5 @@
 export const DEFAULT_HEADERS = {
-	"HTTP-Referer": "https://github.com/Luna-Base-AI/easy-start-vscode",
+	"HTTP-Referer": "https://github.com/Luna-Base-AI/luna-co-pilot",
 	"X-Title": "Luna Co-Pilot",
 }
 
